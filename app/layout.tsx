@@ -7,7 +7,7 @@ const _inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const _jetbrainsMono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-jetbrains-mono" });
 
 export const metadata: Metadata = {
-  title: 'BrewPOS - Coffee Shop Management',
+  title: 'BBPOS - Coffee Shop Management',
   description: 'Modern point-of-sale and management system for coffee shops',
   generator: 'v0.app',
   icons: {

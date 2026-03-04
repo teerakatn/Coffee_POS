@@ -79,7 +79,7 @@ export function AppShell() {
             </div>
             <div className="flex flex-col group-data-[collapsible=icon]:hidden">
               <span className="text-sm font-semibold tracking-tight text-sidebar-foreground">
-                BrewPOS
+                BBPOS
               </span>
               <span className="text-xs text-sidebar-foreground/60">
                 Coffee Shop
